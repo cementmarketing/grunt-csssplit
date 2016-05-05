@@ -1,5 +1,8 @@
 [![Dependency Status](https://david-dm.org/project-collins/grunt-csssplit.svg)](https://david-dm.org/project-collins/grunt-csssplit)
 [![devDependency Status](https://david-dm.org/project-collins/grunt-csssplit/dev-status.svg)](https://david-dm.org/project-collins/grunt-csssplit#info=devDependencies)
+# DEPRECATED
+
+This project is no longer maintained. If you are still supporting ie9 then you have my sympathies! 
 
 # grunt-csssplit
 
